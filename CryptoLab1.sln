@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoLab1", "CryptoLab1\CryptoLab1.csproj", "{ADB3FE90-385E-4FC9-95F1-3225BB339F76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoUnit", "CryptoUnit\CryptoUnit.csproj", "{263F12E5-4949-49F7-8487-C8801E93A68E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADB3FE90-385E-4FC9-95F1-3225BB339F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB3FE90-385E-4FC9-95F1-3225BB339F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB3FE90-385E-4FC9-95F1-3225BB339F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB3FE90-385E-4FC9-95F1-3225BB339F76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{263F12E5-4949-49F7-8487-C8801E93A68E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263F12E5-4949-49F7-8487-C8801E93A68E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263F12E5-4949-49F7-8487-C8801E93A68E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263F12E5-4949-49F7-8487-C8801E93A68E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {531858FD-AD51-40FA-BF85-6DD9EB63129B}
+	EndGlobalSection
+EndGlobal
