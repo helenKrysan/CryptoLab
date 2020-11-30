@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard1.3;netstandard2.0;netstandard2.1;net40;net452</TargetFrameworks>
+    <RootNamespace>EllipticCurve</RootNamespace>
+    <PackOnBuild>true</PackOnBuild>
+    <PackageId>lab5</PackageId>
+    <PackageVersion>1.2.1</PackageVersion>
+    <Authors></Authors>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <Owners>Stark Bank</Owners>
+    <PackageProjectUrl></PackageProjectUrl>
+    <Summary>Pure C# implementation of the Elliptic Curve Digital Signature Algorithm (ECDSA)</Summary>
+    <Title>Stark Bank ECDSA</Title>
+    <Description></Description>
+    <PackageTags>ecdsa, digital-signature, elliptic-curve</PackageTags>
+    <ReleaseVersion>1.2.1</ReleaseVersion>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <OutputType>Exe</OutputType>
+    <Product>CryptoLab5</Product>
+    <Company>CryptoLab5</Company>
+    <AssemblyName>CryptoLab5</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Utils\" />
+  </ItemGroup>
+</Project>
